@@ -1,5 +1,8 @@
 # Medience
 
+> **Archived.** This dataset scaffold was never filled in. The project continued as
+> **Mantis**, a NEET-PG / INI-CET study app: [learnmantis.vercel.app](https://learnmantis.vercel.app).
+
 Open, structured JSON dataset of previous-year questions (PYQs) for **NEET-PG** and **INI-CET**,
 sourced from publicly available papers and official answer keys.
 
